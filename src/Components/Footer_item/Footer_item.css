@@ -1,0 +1,18 @@
+.footer_item_container{
+    /* border: 1px solid black; */
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 3px 0px;
+}
+.footer_item_container >p{
+    margin-top: -2px;
+    font-weight: bold;
+    font-size: 90%;
+}
+.footer_item_container >img{
+    width: 65%;
+    
+}

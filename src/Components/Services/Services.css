@@ -1,0 +1,9 @@
+.services_maincontainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: white;
+    margin: 40px 20px;
+    border-radius: 15px;
+}

@@ -1,0 +1,21 @@
+.container>img{
+  width: 30px;
+
+}
+.container{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 5px 0px;
+  
+
+}
+.container>p{
+  width: 75%;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  border: 1px solid white;
+  background-color: #419ea6;
+}

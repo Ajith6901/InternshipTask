@@ -1,0 +1,17 @@
+.Service_items_maincontainer{
+    color:#459ba6;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    margin: 20px;
+    font-size: 90%;
+    width: 15%;
+
+}
+.Service_items_maincontainer > img{
+    width: 100%;
+    padding-bottom: -10px;
+}
